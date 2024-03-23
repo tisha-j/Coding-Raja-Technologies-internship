@@ -1,0 +1,76 @@
+/* .container{
+    background-color:#C983D0;
+}
+.form-control{
+    background-color: #EFEBA8;
+} */
+
+.btn{
+    background-color:#C983D0;
+}
+#name{
+    width: 580px;
+}
+
+#contact{
+    width: 280px;
+}
+.formmail{
+    top: -77px;
+    left: 300px;
+    position: relative;
+}
+
+#mail{
+    width: 280px;;
+}
+
+.formadd{
+    top: -82px;
+    position: relative;
+}
+#address{
+    width: 580px;
+}
+
+.formo{
+    top: -80px;
+    position: relative;
+}
+
+
+#webtn{
+    position: relative;
+    top: 1px;
+}
+
+#edbtn{
+    position: relative;
+    top: 1px;
+}
+#skbtn{
+    position: relative;
+    top: 1px;
+}
+
+
+/* #resume-form{
+    display: none;
+} */
+
+#resume-template{
+    display: none;
+}
+#prbtn{
+    display: none;
+}
+
+.bold{
+    height: 20px;
+}
+
+hr.bold{
+    height:20px;
+    border-top: 5px double black;
+}
+
